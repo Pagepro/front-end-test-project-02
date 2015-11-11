@@ -3,8 +3,11 @@ Front-end Test Project 02
 Pagepro test project used for learning and recruitment.
 
 ## Project brief
-Convert the following PSD (Photoshop) web design to HTML/CSS/JS.
-
+- Convert the following PSD (Photoshop) web design to HTML/CSS/JS.
+- Use Google Webfont [Montserrat](https://www.google.com/fonts/specimen/Montserrat)
+- Add scroll down animation when clicking on "Scroll for more" link
+- Use [bxSlider](http://bxslider.com/) for testimonials and realizations sliders
+- Apply html5 input validation for contact form
 
 ![Pagepro](front-end-test-project-02.jpg)
 
@@ -15,7 +18,7 @@ Convert the following PSD (Photoshop) web design to HTML/CSS/JS.
 
 
 ## Download PSD
-[front-end-test-project-02.psd.zip](front-end-test-project-02.psd.zip?raw=true) (0.5MB)
+[front-end-test-project-02.psd.zip](front-end-test-project-02.psd.zip?raw=true) (23.7MB)
 
 ## Supported browsers
 Ensure that everything works and displays correctly in the following browsers:
