@@ -4,10 +4,6 @@ Pagepro test project used for learning and recruitment.
 
 ## Project brief
 - Convert the following PSD (Photoshop) web design to HTML/CSS/JS.
-- Use Google Webfont [Montserrat](https://www.google.com/fonts/specimen/Montserrat)
-- Add scroll down animation when clicking on "Scroll for more" link
-- Use [bxSlider](http://bxslider.com/) for testimonials and realizations sliders
-- Apply html5 input validation for contact form
 
 ![Pagepro](front-end-test-project-02.jpg)
 
@@ -15,6 +11,10 @@ Pagepro test project used for learning and recruitment.
 1. Create project using the latest version of [LibSasserPlate](https://github.com/Pagepro/libsasserplate)
 2. Use HTML5 / SCSS
 3. Create page called Home and place the elements on it
+4. Use Google Webfont [Montserrat](https://www.google.com/fonts/specimen/Montserrat)
+5. Add scroll down animation when clicking on "Scroll for more" link
+6. Use [bxSlider](http://bxslider.com/) for testimonials and realizations sliders
+7. Apply html5 input validation for contact form
 
 
 ## Download PSD
